@@ -1,2 +1,3 @@
 this is new file to test add commit push
 this learngit2 add one line
+this is learngit2 add one line to test conflict
